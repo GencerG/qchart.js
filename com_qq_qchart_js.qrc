@@ -1,0 +1,6 @@
+
+<RCC>
+    <qresource prefix="/com/qq/qchart/js">
+        <file>qmldir</file>
+    </qresource>
+</RCC>
