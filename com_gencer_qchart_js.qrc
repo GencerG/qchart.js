@@ -1,6 +1,6 @@
 
 <RCC>
-    <qresource prefix="/com/qq/qchart/js">
+    <qresource prefix="/com/gencer/qchart/js">
         <file>qmldir</file>
     </qresource>
 </RCC>

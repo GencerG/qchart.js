@@ -1,12 +1,12 @@
 {
-  "name": "com.qq.qchart.js",
+  "name": "com.gencer.qchart.js",
   "author": {
-    "name": "hanagm",
-    "email": "274506356@qq.com"
+    "name": "GencerG",
+    "email": "gencer@algebra.global"
   },
   "repository": {
     "type": "GIT",
-    "url": "https://github.com/hanagm/qchart.js.git"
+    "url": "https://github.com/GencerG/qchart.js.git"
   },
   "version": {
     "label": "0.0.1"
@@ -14,5 +14,5 @@
   "dependencies": [
   ],
   "license": "MIT",
-  "priFilename": "com_qq_qchart_js.pri"
+  "priFilename": "com_gencer_qchart_js.pri"
 }
